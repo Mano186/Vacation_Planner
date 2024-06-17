@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/294483b6-47a6-42cf-8331-31008c05d31c/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/travelpackageapp/dao/BookingDAO.java" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/travelpackageapp/dao/PackageDAO.java" dialect="MySQL" />
+  </component>
+</project>
